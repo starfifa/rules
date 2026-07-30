@@ -1,0 +1,19 @@
+payload:
+  # 匹配后缀
+  # 自定义 EMBY 反代域名规则
+  - DOMAIN-SUFFIX,fd.dirige.de5.net
+  - DOMAIN-SUFFIX,emby.noomi.eu.cc
+  - DOMAIN-SUFFIX,auto.liuerao.dpdns.org
+  - DOMAIN-SUFFIX,auto.dolby.dpdns.org
+  
+  # 自定义 EMBY 直连规则 
+  - DOMAIN-SUFFIX,hgemby.qzz.io
+  - DOMAIN-SUFFIX,111660.xyz
+  - DOMAIN-SUFFIX,link00.okemby.org
+  - DOMAIN-SUFFIX,link01.okemby.org
+  - DOMAIN-SUFFIX,goemby.entertang.work
+  - DOMAIN-SUFFIX,emby.di0.uk
+  - DOMAIN-SUFFIX,emby-npo.hohai.eu.org
+  - DOMAIN-SUFFIX,emby.taotu.ink
+  - DOMAIN-SUFFIX,bb.emby.edu.kg
+  - DOMAIN-SUFFIX,tangtang.co
