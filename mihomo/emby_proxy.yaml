@@ -1,0 +1,8 @@
+payload:
+  # 匹配后缀
+  - DOMAIN-SUFFIX,lite.cn2gias.uk,Emby
+  - DOMAIN-SUFFIX,public.shrekmedia.org,Emby
+  - DOMAIN-SUFFIX,onatoshi.114514.quest,Emby
+  - DOMAIN-SUFFIX,emby.revival.baby,Emby
+  - DOMAIN-SUFFIX,emby.dnscf.dpdns.org,Emby
+  - DOMAIN-SUFFIX,one.liminalnet.com,Emby
