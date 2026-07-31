@@ -19,3 +19,76 @@ payload:
   - DOMAIN-SUFFIX,tangtang.co
   - DOMAIN-SUFFIX,gf.emby.yun
   - DOMAIN-SUFFIX,lunarisvault.com
+  
+  # 匹配后缀
+  - DOMAIN-SUFFIX,viclub.top
+  - DOMAIN-SUFFIX,vfing.de
+  - DOMAIN-SUFFIX,sakim.org
+  - DOMAIN-SUFFIX,cn2gias.uk
+  - DOMAIN-SUFFIX,114514.quest
+  - DOMAIN-SUFFIX,heisi.org
+  - DOMAIN-SUFFIX,hohai.eu.org
+  - DOMAIN-SUFFIX,jsq.vban.xyz
+  - DOMAIN-SUFFIX,bangumi.ca
+  - DOMAIN-SUFFIX,shrekmedia.org
+  - DOMAIN-SUFFIX,jzjz.site
+  - DOMAIN-SUFFIX,emby.wtf
+  - DOMAIN-SUFFIX,term.wtf
+  - DOMAIN-SUFFIX,101514.xyz
+  - DOMAIN-SUFFIX,istyboe.top
+  - DOMAIN-SUFFIX,emby.dnscf.dpdns.org
+  - DOMAIN-SUFFIX,emby666.alien666.de5.net
+  - DOMAIN-SUFFIX,23333334.xyz
+  - DOMAIN-SUFFIX,306699.xyz
+  - DOMAIN-SUFFIX,istyboe.top
+  - DOMAIN-SUFFIX,inemby.us.ci
+  - DOMAIN-SUFFIX,emby.taotu.ink
+  - DOMAIN-SUFFIX,eb.atrct.cn
+  - DOMAIN-SUFFIX,ccdv.cc.cd
+  - DOMAIN-SUFFIX,chi.us.ci
+  - DOMAIN-SUFFIX,video.emos.best
+  - DOMAIN-SUFFIX,lunarisvault.com
+  - DOMAIN-SUFFIX,tangtang.co
+  - DOMAIN-SUFFIX,lris625.top
+  - DOMAIN-SUFFIX,fd.jzdj.dpdns.org
+  - DOMAIN-SUFFIX,emby.60442173.xyz
+  - DOMAIN-SUFFIX,mwp.bydsb.cc.cd
+  - DOMAIN-SUFFIX,mwp.cnmbyd.de5.net
+  - DOMAIN-SUFFIX,mwp.cnmbyd.xyz
+  - DOMAIN-SUFFIX,mwp.fw1.de5.net
+  - DOMAIN-SUFFIX,mwp.sbcnm.us.ci
+  - DOMAIN-SUFFIX,emby.cf99.dpdns.org
+  - DOMAIN-SUFFIX,media.emos.club
+  - DOMAIN-SUFFIX,emos.wwzb.de
+  - DOMAIN-SUFFIX,emby.taotu.ink
+  - DOMAIN-SUFFIX,eb.atrct.cn
+  - DOMAIN-SUFFIX,emby.di0.uk
+  - DOMAIN-SUFFIX,link00.okemby.org 
+  - DOMAIN-SUFFIX,link01.okemby.org 
+  - DOMAIN-SUFFIX,bb.emby.edu.kg
+  - DOMAIN-SUFFIX,eemby.cc.cd
+  - DOMAIN-SUFFIX,ok.draxy.eu.cc
+  - DOMAIN-SUFFIX,okemby.wangjunqiang.indevs.in
+  - DOMAIN-SUFFIX,okemby.wangjunqiang.dev
+  - DOMAIN-SUFFIX,ok.liuerao.dpdns.org
+  - DOMAIN-SUFFIX,ok.youko.cc.cd
+  - DOMAIN-SUFFIX,ok.draxy.eu.cc
+  - DOMAIN-SUFFIX,emby.enic65.eu.org
+  - DOMAIN-SUFFIX,ok.66666320.xyz
+  - DOMAIN-SUFFIX,emby.noomi.eu.cc
+  - DOMAIN-SUFFIX,auto.liuerao.dpdns.org
+  - DOMAIN-SUFFIX,fd.dirige.de5.net
+  - DOMAIN-SUFFIX,auto.dolby.dpdns.org
+  - DOMAIN-SUFFIX,goemby.entertang.work
+  - IP-CIDR,193.123.73.89/32,no-resolve
+  - IP-CIDR,162.159.20.184/32,no-resolve
+  - IP-CIDR,38.147.107.204/32,no-resolve
+  
+  # 全匹配
+  #- DOMAIN,my.personal.site.com
+  - DOMAIN,emby.dnscf.dpdns.org
+  - DOMAIN,114514.fuckme.pushgoodcloud.com
+  - DOMAIN,genshen.mihoyo.bbroot.com
+  
+  # IP 段子
+  #- IP-CIDR,91.108.4.0/22,no-resolve
