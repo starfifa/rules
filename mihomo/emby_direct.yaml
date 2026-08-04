@@ -13,12 +13,12 @@ payload:
   - DOMAIN-SUFFIX,link01.okemby.org
   - DOMAIN-SUFFIX,goemby.entertang.work
   - DOMAIN-SUFFIX,emby.di0.uk
-  - DOMAIN-SUFFIX,emby-npo.hohai.eu.org
   - DOMAIN-SUFFIX,emby.taotu.ink
   - DOMAIN-SUFFIX,bb.emby.edu.kg
   - DOMAIN-SUFFIX,tangtang.co
   - DOMAIN-SUFFIX,gf.emby.yun
   - DOMAIN-SUFFIX,lunarisvault.com
+  - DOMAIN-SUFFIX,vip.kebyn.cc
   
   # 匹配后缀
   - DOMAIN-SUFFIX,viclub.top
@@ -27,7 +27,6 @@ payload:
   - DOMAIN-SUFFIX,cn2gias.uk
   - DOMAIN-SUFFIX,114514.quest
   - DOMAIN-SUFFIX,heisi.org
-  - DOMAIN-SUFFIX,hohai.eu.org
   - DOMAIN-SUFFIX,jsq.vban.xyz
   - DOMAIN-SUFFIX,bangumi.ca
   - DOMAIN-SUFFIX,shrekmedia.org
