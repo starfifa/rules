@@ -6,3 +6,5 @@ payload:
   - DOMAIN-SUFFIX,emby.revival.baby
   - DOMAIN-SUFFIX,emby.dnscf.dpdns.org
   - DOMAIN-SUFFIX,one.liminalnet.com
+  - DOMAIN-SUFFIX,emby-npo.hohai.eu.org
+  - DOMAIN-SUFFIX,hohai.eu.org
