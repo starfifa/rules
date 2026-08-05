@@ -19,6 +19,7 @@ payload:
   - DOMAIN-SUFFIX,gf.emby.yun
   - DOMAIN-SUFFIX,lunarisvault.com
   - DOMAIN-SUFFIX,vip.kebyn.cc
+  - DOMAIN-SUFFIX,emby.teawaya.com
   
   # 匹配后缀
   - DOMAIN-SUFFIX,viclub.top
