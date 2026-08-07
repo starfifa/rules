@@ -77,10 +77,8 @@ payload:
   - DOMAIN-SUFFIX,ok.66666320.xyz
   - DOMAIN-SUFFIX,emby.noomi.eu.cc
   - DOMAIN-SUFFIX,auto.liuerao.dpdns.org
-  
   - DOMAIN-SUFFIX,auto.dolby.dpdns.org
   - DOMAIN-SUFFIX,goemby.entertang.work
-  
   
   # 全匹配
   #- DOMAIN,my.personal.site.com
