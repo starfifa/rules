@@ -25,6 +25,11 @@ payload:
   #Lunaris Vault
   - DOMAIN-SUFFIX,tangtang.co
   - DOMAIN-SUFFIX,lunarisvault.com
+  #予初
+  - DOMAIN-SUFFIX,aaa.yusen6.ccwu.cc
+  - DOMAIN-SUFFIX,emby.yusen.us.ci
+  - DOMAIN-SUFFIX,embya.yusen.cyou
+  - DOMAIN-SUFFIX,emby.yusen.cc.cd
   #其他
   - DOMAIN-SUFFIX,gf.emby.yun  
   - DOMAIN-SUFFIX,vip.kebyn.cc
