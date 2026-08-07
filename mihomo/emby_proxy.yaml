@@ -1,12 +1,22 @@
 payload:
   # 匹配后缀
+  #守候
   - DOMAIN-SUFFIX,lite.cn2gias.uk
+  #sherkpublic
   - DOMAIN-SUFFIX,public.shrekmedia.org
+  #doubon
   - DOMAIN-SUFFIX,onatoshi.114514.quest
+  #未知
   - DOMAIN-SUFFIX,emby.revival.baby
   - DOMAIN-SUFFIX,emby.dnscf.dpdns.org
+  #临境
   - DOMAIN-SUFFIX,one.liminalnet.com
+  # 红海
   - DOMAIN-SUFFIX,emby-npo.hohai.eu.org
   - DOMAIN-SUFFIX,hohai.eu.org
+  #茶百道
   - DOMAIN-SUFFIX,emby.teawaya.com
-  - DOMAIN-SUFFIX,emby.snowstorm.cc.cd
+  #沪上阿姨
+  - DOMAIN-SUFFIX,emby.snowstorm.cc.cd 
+  #蜜雪冰城
+  - DOMAIN-SUFFIX,gossip.lat 
