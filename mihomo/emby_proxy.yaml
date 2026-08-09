@@ -20,3 +20,8 @@ payload:
   - DOMAIN-SUFFIX,emby.snowstorm.cc.cd 
   #蜜雪冰城
   - DOMAIN-SUFFIX,gossip.lat 
+  #周三晚
+  - DOMAIN-SUFFIX,echos.cc.cd
+  #游骑兵
+  - DOMAIN-SUFFIX,emby.heisi.org
+  - DOMAIN-SUFFIX,emby.heisi.org
