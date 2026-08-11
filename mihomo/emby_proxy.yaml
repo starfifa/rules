@@ -25,5 +25,4 @@ payload:
   #游骑兵
   - DOMAIN-SUFFIX,emby.heisi.org
   - DOMAIN-SUFFIX,emby.heisi.org
-  #非越
-  - DOMAIN-SUFFIX,cf.sfcj.org
+  
