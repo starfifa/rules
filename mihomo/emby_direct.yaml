@@ -14,7 +14,7 @@ payload:
   #OKemby
   - DOMAIN-SUFFIX,link00.okemby.org
   - DOMAIN-SUFFIX,link01.okemby.org
-  #其他
+  #etflix
   - DOMAIN-SUFFIX,goemby.entertang.work
   #帝服
   - DOMAIN-SUFFIX,emby.di0.uk
