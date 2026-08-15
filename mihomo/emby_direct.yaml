@@ -34,6 +34,8 @@ payload:
   - DOMAIN-SUFFIX,cf.sfcj.org
   #茉莉花
   - DOMAIN-SUFFIX,em.mlhyy.top
+  #MSKY
+  - DOMAIN-SUFFIX,wcf.3msky.com
   #其他
   - DOMAIN-SUFFIX,gf.emby.yun  
   - DOMAIN-SUFFIX,vip.kebyn.cc
