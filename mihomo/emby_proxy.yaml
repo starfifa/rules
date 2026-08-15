@@ -27,5 +27,8 @@ payload:
   - DOMAIN-SUFFIX,emby.heisi.org
   #取经阁
   - DOMAIN-SUFFIX,emby.siyouyun.eu.org
+  #非越推流地址
+  - DOMAIN-SUFFIX,media.emby.pro
+  
   
   
