@@ -25,4 +25,7 @@ payload:
   #游骑兵
   - DOMAIN-SUFFIX,emby.heisi.org
   - DOMAIN-SUFFIX,emby.heisi.org
+  #取经阁
+  - DOMAIN-SUFFIX,emby.siyouyun.eu.org
+  
   
