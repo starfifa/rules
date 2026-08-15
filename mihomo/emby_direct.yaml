@@ -32,6 +32,8 @@ payload:
   - DOMAIN-SUFFIX,emby.yusen.cc.cd
   #非越
   - DOMAIN-SUFFIX,cf.sfcj.org
+  #茉莉花
+  - DOMAIN-SUFFIX,em.mlhyy.top
   #其他
   - DOMAIN-SUFFIX,gf.emby.yun  
   - DOMAIN-SUFFIX,vip.kebyn.cc
