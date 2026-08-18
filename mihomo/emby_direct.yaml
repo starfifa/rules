@@ -7,6 +7,9 @@ payload:
   - DOMAIN-SUFFIX,auto.dolby.dpdns.org
   
   # 自定义 EMBY 直连规则 
+  #SNTP守候机场服（白名单）
+  - DOMAIN-SUFFIX,server3.cn2gias.uk
+  - DOMAIN-SUFFIX,s3.array2026.com
   #HG瑟
   - DOMAIN-SUFFIX,hgemby.qzz.io
   #
