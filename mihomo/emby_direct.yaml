@@ -5,6 +5,7 @@ payload:
   - DOMAIN-SUFFIX,emby.noomi.eu.cc
   - DOMAIN-SUFFIX,auto.liuerao.dpdns.org
   - DOMAIN-SUFFIX,auto.dolby.dpdns.org
+  - DOMAIN-SUFFIX,emby.zzlzz.de5.net
   
   # 自定义 EMBY 直连规则 
   #SNTP守候机场服（白名单）
@@ -37,6 +38,8 @@ payload:
   - DOMAIN-SUFFIX,cf.sfcj.org
   #茉莉花
   - DOMAIN-SUFFIX,em.mlhyy.top
+  #可乐
+  - DOMAIN-SUFFIX,ct.speedtest.sarl
   #其他
   - DOMAIN-SUFFIX,gf.emby.yun  
   - DOMAIN-SUFFIX,vip.kebyn.cc
