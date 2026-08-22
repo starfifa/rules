@@ -1,7 +1,10 @@
 payload:
   # 匹配后缀
+  #可乐
+  - DOMAIN-SUFFIX,emby.misaka.si
   #守候
   - DOMAIN-SUFFIX,lite.cn2gias.uk
+  - DOMAIN-SUFFIX,server3.cn2gias.uk
   #sherkpublic
   - DOMAIN-SUFFIX,public.shrekmedia.org
   #doubon
@@ -31,5 +34,6 @@ payload:
   - DOMAIN-SUFFIX,media.emby.pro
   #MSKY
   - DOMAIN-SUFFIX,wcf.3msky.com
-  
+  #全靠闷
+  - DOMAIN-SUFFIX,emby.zhouzhou00.dpdns.org
   
