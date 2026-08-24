@@ -25,6 +25,7 @@ payload:
   - DOMAIN-SUFFIX,emby.di0.uk
   #乐蛙
   - DOMAIN-SUFFIX,emby.taotu.ink
+  - DOMAIN-SUFFIX,eb.atrct.cn
   #步兵营地
   - DOMAIN-SUFFIX,bb.emby.edu.kg
   #Lunaris Vault
