@@ -61,4 +61,6 @@ payload:
   - DOMAIN-SUFFIX,emby.yusen.cc.cd
   #非越
   - DOMAIN-SUFFIX,cf.sfcj.org
+  #可乐
+  - DOMAIN-SUFFIX,ct.speedtest.sarl
   
