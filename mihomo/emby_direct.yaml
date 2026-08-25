@@ -16,8 +16,7 @@ payload:
   
   #茉莉花
   - DOMAIN-SUFFIX,em.mlhyy.top
-  #可乐
-  - DOMAIN-SUFFIX,ct.speedtest.sarl
+  
   #其他
   - DOMAIN-SUFFIX,gf.emby.yun  
   - DOMAIN-SUFFIX,vip.kebyn.cc
