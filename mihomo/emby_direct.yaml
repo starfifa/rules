@@ -13,10 +13,6 @@ payload:
   #SNTP守候机场服（白名单）
   - DOMAIN-SUFFIX,server3.cn2gias.uk
   - DOMAIN-SUFFIX,s3.array2026.com
-  #HG瑟
-  - DOMAIN-SUFFIX,hgemby.qzz.io
-  #
-  - DOMAIN-SUFFIX,111660.xyz
   #OKemby
   - DOMAIN-SUFFIX,link00.okemby.org
   - DOMAIN-SUFFIX,link01.okemby.org
