@@ -39,4 +39,26 @@ payload:
   #HG瑟
   - DOMAIN-SUFFIX,hgemby.qzz.io
   - DOMAIN-SUFFIX,111660.xyz
+  #OKemby
+  - DOMAIN-SUFFIX,link00.okemby.org
+  - DOMAIN-SUFFIX,link01.okemby.org
+  #etflix
+  - DOMAIN-SUFFIX,goemby.entertang.work
+  #帝服
+  - DOMAIN-SUFFIX,emby.di0.uk
+  #乐蛙
+  - DOMAIN-SUFFIX,emby.taotu.ink
+  - DOMAIN-SUFFIX,eb.atrct.cn
+  #步兵营地
+  - DOMAIN-SUFFIX,bb.emby.edu.kg
+  #Lunaris Vault
+  - DOMAIN-SUFFIX,tangtang.co
+  - DOMAIN-SUFFIX,lunarisvault.com
+  #予初
+  - DOMAIN-SUFFIX,aaa.yusen6.ccwu.cc
+  - DOMAIN-SUFFIX,emby.yusen.us.ci
+  - DOMAIN-SUFFIX,embya.yusen.cyou
+  - DOMAIN-SUFFIX,emby.yusen.cc.cd
+  #非越
+  - DOMAIN-SUFFIX,cf.sfcj.org
   
