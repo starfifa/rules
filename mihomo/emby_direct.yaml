@@ -7,6 +7,7 @@ payload:
   - DOMAIN-SUFFIX,auto.dolby.dpdns.org
   - DOMAIN-SUFFIX,emby.zzlzz.de5.net
   - DOMAIN-SUFFIX,emby.star.us.ci
+  - DOMAIN-SUFFIX,fd.zstar.qzz.io
   
   # 自定义 EMBY 直连规则 
   #SNTP守候机场服（白名单）
