@@ -36,4 +36,7 @@ payload:
   - DOMAIN-SUFFIX,wcf.3msky.com
   #全靠闷
   - DOMAIN-SUFFIX,emby.zhouzhou00.dpdns.org
+  #HG瑟
+  - DOMAIN-SUFFIX,hgemby.qzz.io
+  - DOMAIN-SUFFIX,111660.xyz
   
