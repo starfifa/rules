@@ -2,16 +2,14 @@ payload:
   # 匹配后缀
   #可乐
   - DOMAIN-SUFFIX,emby.misaka.si
-  #守候
+  - DOMAIN-SUFFIX,ct.speedtest.sarl
+  #守候SNTP
   - DOMAIN-SUFFIX,lite.cn2gias.uk
   - DOMAIN-SUFFIX,server3.cn2gias.uk
   #sherkpublic
   - DOMAIN-SUFFIX,public.shrekmedia.org
   #doubon
   - DOMAIN-SUFFIX,onatoshi.114514.quest
-  #未知
-  - DOMAIN-SUFFIX,emby.revival.baby
-  - DOMAIN-SUFFIX,emby.dnscf.dpdns.org
   #临境
   - DOMAIN-SUFFIX,one.liminalnet.com
   # 红海
@@ -19,38 +17,8 @@ payload:
   - DOMAIN-SUFFIX,hohai.eu.org
   #茶百道
   - DOMAIN-SUFFIX,emby.teawaya.com
-  #沪上阿姨
-  - DOMAIN-SUFFIX,emby.snowstorm.cc.cd 
-  #蜜雪冰城
-  - DOMAIN-SUFFIX,gossip.lat 
-  #周三晚
-  - DOMAIN-SUFFIX,echos.cc.cd
-  #游骑兵
-  - DOMAIN-SUFFIX,emby.heisi.org
-  - DOMAIN-SUFFIX,emby.heisi.org
-  #取经阁
-  - DOMAIN-SUFFIX,emby.siyouyun.eu.org
   #非越推流地址
   - DOMAIN-SUFFIX,media.emby.pro
-  #MSKY
-  - DOMAIN-SUFFIX,wcf.3msky.com
-  #全靠闷
-  - DOMAIN-SUFFIX,emby.zhouzhou00.dpdns.org
-  #OKemby
-  - DOMAIN-SUFFIX,link00.okemby.org
-  - DOMAIN-SUFFIX,link01.okemby.org
-  #etflix
-  - DOMAIN-SUFFIX,goemby.entertang.work
-  #帝服
-  - DOMAIN-SUFFIX,emby.di0.uk
-  #乐蛙
-  - DOMAIN-SUFFIX,emby.taotu.ink
-  - DOMAIN-SUFFIX,eb.atrct.cn
-  #步兵营地
-  - DOMAIN-SUFFIX,bb.emby.edu.kg
-  #Lunaris Vault
-  - DOMAIN-SUFFIX,tangtang.co
-  - DOMAIN-SUFFIX,lunarisvault.com
   #予初
   - DOMAIN-SUFFIX,aaa.yusen6.ccwu.cc
   - DOMAIN-SUFFIX,emby.yusen.us.ci
@@ -58,6 +26,41 @@ payload:
   - DOMAIN-SUFFIX,emby.yusen.cc.cd
   #非越
   - DOMAIN-SUFFIX,cf.sfcj.org
-  #可乐
-  - DOMAIN-SUFFIX,ct.speedtest.sarl
+  #NOX
+  - DOMAIN-SUFFIX,test.inemby.us.ci
+  #MSKY
+  - DOMAIN-SUFFIX,wcf.3msky.com
+  #OKemby
+  - DOMAIN-SUFFIX,link00.okemby.org
+  - DOMAIN-SUFFIX,link01.okemby.org
+  #乐蛙
+  - DOMAIN-SUFFIX,emby.taotu.ink
+  - DOMAIN-SUFFIX,eb.atrct.cn
+  #etflix
+  - DOMAIN-SUFFIX,goemby.entertang.work
+
+  
+  #Lunaris Vault
+  - DOMAIN-SUFFIX,tangtang.co
+  - DOMAIN-SUFFIX,lunarisvault.com
+  #未知
+  - DOMAIN-SUFFIX,emby.revival.baby
+  - DOMAIN-SUFFIX,emby.dnscf.dpdns.org
+  #帝服
+  - DOMAIN-SUFFIX,emby.di0.uk
+  #沪上阿姨
+  - DOMAIN-SUFFIX,emby.snowstorm.cc.cd 
+  #蜜雪冰城
+  - DOMAIN-SUFFIX,gossip.lat
+  #周三晚
+  - DOMAIN-SUFFIX,echos.cc.cd
+  #游骑兵
+  - DOMAIN-SUFFIX,emby.heisi.org
+  - DOMAIN-SUFFIX,emby.heisi.org
+  #取经阁
+  - DOMAIN-SUFFIX,emby.siyouyun.eu.org
+  #全靠闷
+  - DOMAIN-SUFFIX,emby.zhouzhou00.dpdns.org
+  #步兵营地
+  - DOMAIN-SUFFIX,bb.emby.edu.kg
   
