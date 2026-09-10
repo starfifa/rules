@@ -13,6 +13,7 @@ payload:
   #SNTP守候机场服（白名单）
   - DOMAIN-SUFFIX,server3.cn2gias.uk
   - DOMAIN-SUFFIX,s3.array2026.com
+  - DOMAIN-SUFFIX,s2.array2026.cc
   #茉莉花
   - DOMAIN-SUFFIX,em.mlhyy.top
   #营养快线
