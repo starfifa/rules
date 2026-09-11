@@ -5,7 +5,6 @@ payload:
   - DOMAIN-SUFFIX,ct.speedtest.sarl
   #守候SNTP
   - DOMAIN-SUFFIX,lite.cn2gias.uk
-  - DOMAIN-SUFFIX,server3.cn2gias.uk
   - DOMAIN-SUFFIX,std.cn2gias.uk
   - DOMAIN-SUFFIX,std-sg.cn2gias.uk
   #sherkpublic
