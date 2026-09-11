@@ -21,3 +21,6 @@ payload:
   #HG瑟
   - DOMAIN-SUFFIX,hgemby.qzz.io
   - DOMAIN-SUFFIX,111660.xyz
+  #随时跑路
+  - DOMAIN-SUFFIX,emby.kingemby.com
+  
