@@ -25,6 +25,7 @@ payload:
   - DOMAIN-SUFFIX,emby.yusen.us.ci
   - DOMAIN-SUFFIX,embya.yusen.cyou
   - DOMAIN-SUFFIX,emby.yusen.cc.cd
+  - DOMAIN-SUFFIX,13.yusen.cyou
   #非越
   - DOMAIN-SUFFIX,cf.sfcj.org
   #NOX
@@ -41,7 +42,8 @@ payload:
   - DOMAIN-SUFFIX,goemby.entertang.work
 
   
-  #Lunaris Vault
+  #FWorks Network Emby
+  - DOMAIN-SUFFIX,fworks-emby.webn.cc
   - DOMAIN-SUFFIX,tangtang.co
   - DOMAIN-SUFFIX,lunarisvault.com
   #未知
@@ -55,6 +57,7 @@ payload:
   - DOMAIN-SUFFIX,gossip.lat
   #周三晚
   - DOMAIN-SUFFIX,echos.cc.cd
+  - DOMAIN-SUFFIX,大厨永远的神.ibukifuko.tech
   #游骑兵
   - DOMAIN-SUFFIX,emby.heisi.org
   - DOMAIN-SUFFIX,emby.heisi.org
