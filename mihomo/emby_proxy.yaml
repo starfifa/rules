@@ -18,6 +18,7 @@ payload:
   - DOMAIN-SUFFIX,hohai.eu.org
   #茶百道
   - DOMAIN-SUFFIX,emby.teawaya.com
+  - DOMAIN-SUFFIX,emby.chapanda.site
   #非越推流地址
   - DOMAIN-SUFFIX,media.emby.pro
   #予初
